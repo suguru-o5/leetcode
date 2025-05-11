@@ -4,6 +4,7 @@
   "description": "## 1. Clone this repository ```bash git clone ... ```",
   "main": "index.js",
   "scripts": {
+    "new": "ts-node scripts/create.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
